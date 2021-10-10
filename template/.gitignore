@@ -1,0 +1,4 @@
+node_modules
+
+# Template Specific Ignores. This should be similar to what exists in the templates .gitignore
+templates/node_modules

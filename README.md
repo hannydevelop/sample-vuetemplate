@@ -1,10 +1,7 @@
-{{ name }}
+A very simple reusable vue template
 ===
-> Your README Description!
+This is just a simple Vue Project template to be created from the Vue CLI template
 
-{{ description }}
-
-```
 ```bash
 npm install -g @vue/cli
 # OR
