@@ -6,6 +6,6 @@ This is just a simple Vue Project template to be created from the Vue CLI templa
 npm install -g @vue/cli
 # OR
 yarn global add @vue/cli
-# Then
+# The
 vue init joshvillahermosa/simple-vue-reusable-template sample-app
 ```
